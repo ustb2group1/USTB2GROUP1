@@ -7,7 +7,7 @@ public class SalesMain {
 		Sales s = new Sales();
 	   
 
-		System.out.println("Welcome");
+		System.out.println("Welcome to UST");
 		s.display();
 	}
 
